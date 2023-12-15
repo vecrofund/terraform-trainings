@@ -1,0 +1,6 @@
+region-name = "ap-southeast-1"
+iamusername = "moduser1"
+iamgroupname = "modgroup1"
+nameofvm = "mod-vm"
+sizeofvm = "t3.micro"
+amiid = "ami-02453f5468b897e31"
